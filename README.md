@@ -1,4 +1,4 @@
-# publicnotebooks
+# Public notebooks
 Py notebooks and Machine Learning studies.
 
 Welcome, this is my public repository to notebooks created in my path to become a Data Scientist. 
